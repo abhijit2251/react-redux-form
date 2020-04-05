@@ -1,2 +1,2 @@
 # react-redux-form
-contact form
+contact form with validation
